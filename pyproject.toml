@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "knowlege-graph"
+name = "knowledge-graph"
 version = "0.1.0"
 description = ""
 authors = ["Nayak <rahul.nyk@gmail.com>"]
